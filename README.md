@@ -17,19 +17,19 @@ Aplikasi timer Pomodoro modern dan minimalis yang dibangun dengan Flutter untuk 
 
 ### Halaman Utama (Mode Terang)
 
-![Halaman Utama](https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot1.png?raw=true)
+<img src="https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot1.png?raw=true" alt="Halaman Utama" width="400">
 
 ### Halaman Utama (Mode Gelap)
 
-![Halaman Utama Gelap](https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot2.png?raw=true)
+<img src="https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot2.png?raw=true" alt="Halaman Utama Gelap" width="400">
 
 ### Halaman Pengaturan
 
-![Halaman Pengaturan](https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot4.png?raw=true)
+<img src="https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot4.png?raw=true" alt="Halaman Pengaturan" width="400">
 
 ### Timer Berjalan dengan Efek Partikel
 
-![Timer Berjalan](https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot3.png?raw=true)
+<img src="https://github.com/padukadafa/pomodoro/blob/main/screenshots/screenshot3.png?raw=true" alt="Timer Berjalan" width="400">
 
 ## 🚀 Instalasi
 
