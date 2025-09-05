@@ -17,19 +17,19 @@ Aplikasi timer Pomodoro modern dan minimalis yang dibangun dengan Flutter untuk 
 
 ### Halaman Utama (Mode Terang)
 
-![Halaman Utama](screenshots/home_light.png)
+![Halaman Utama](screenshots/screenshot1.png)
 
 ### Halaman Utama (Mode Gelap)
 
-![Halaman Utama Gelap](screenshots/home_dark.png)
+![Halaman Utama Gelap](screenshots/screenshot2.png)
 
 ### Halaman Pengaturan
 
-![Halaman Pengaturan](screenshots/settings.png)
+![Halaman Pengaturan](screenshots/screenshot4.png)
 
 ### Timer Berjalan dengan Efek Partikel
 
-![Timer Berjalan](screenshots/timer_running.png)
+![Timer Berjalan](screenshots/screenshot3.png)
 
 ## 🚀 Instalasi
 
