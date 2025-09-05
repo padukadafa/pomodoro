@@ -45,8 +45,8 @@ Aplikasi timer Pomodoro modern dan minimalis yang dibangun dengan Flutter untuk 
 1. **Clone repository ini:**
 
    ```bash
-   git clone https://github.com/username/pomodoro-timer.git
-   cd pomodoro-timer
+   git clone https://github.com/username/pomodoro.git
+   cd pomodoro
    ```
 
 2. **Install dependencies:**
